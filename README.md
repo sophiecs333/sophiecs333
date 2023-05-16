@@ -1,10 +1,10 @@
 ### Hi there, welcome to my GitHub profile! 👋
 
-- 📫 How to reach me: contact me on LinkedIn! --> https://www.linkedin.com/in/sophie-c-sorin/
-
 
 <!--
 **sophiecs333/sophiecs333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+- 📫 How to reach me: contact me on LinkedIn! --> https://www.linkedin.com/in/sophie-c-sorin/
 
 Here are some ideas to get you started:
 
